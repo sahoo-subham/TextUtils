@@ -29,7 +29,7 @@ TextUtils is a simple and efficient web application built using Django that allo
 ## ⚙️ Installation & Setup
 
 ```bash
-git clone https://github.com/your-username/TextUtils.git
+git clone https://github.com/sahoo-subham/TextUtils.git
 cd TextUtils
 pip install -r requirements.txt
 python manage.py runserver
